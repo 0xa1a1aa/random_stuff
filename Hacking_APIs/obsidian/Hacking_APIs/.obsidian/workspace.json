@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "2beb9290edda05df",
+    "type": "split",
+    "children": [
+      {
+        "id": "01a68952a627ee82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34d45ac79a5ef916",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0b8e22e3800026d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ba1eb77815ff82e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaeceafec93b525e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2004de905d44a1b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68e0b90bf9441136",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d616eb2532863f46",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2bd8c827beccf6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7696a5aa1be1d567",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a98fc4bff967cab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3608e76a03fe0181",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ce3a74dd10d650b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "34d45ac79a5ef916",
+  "lastOpenFiles": [
+    "Tools.md",
+    "2. Endpoint Analysis/1. API Documentation.md",
+    "Labs/Lab 3 - Active Recon.md",
+    "1. Discovery/3. Active Recon.md",
+    "Labs",
+    "1. Discovery/2. Passive Recon.md",
+    "1. Discovery/1. Information Gathering.md",
+    "Info.md",
+    "2. Endpoint Analysis",
+    "1. Discovery"
+  ]
+}
