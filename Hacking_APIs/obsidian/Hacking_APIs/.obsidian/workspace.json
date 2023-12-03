@@ -11,8 +11,12 @@
             "id": "34d45ac79a5ef916",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Labs/Lab 3 - Active Recon.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Labs/Lab 3 - Active Recon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Labs/Lab 3 - Active Recon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Labs/Lab 3 - Active Recon.md"
+              }
             }
           }
         ]
@@ -140,14 +148,14 @@
   },
   "active": "34d45ac79a5ef916",
   "lastOpenFiles": [
-    "Tools.md",
-    "2. Endpoint Analysis/1. API Documentation.md",
-    "Labs/Lab 3 - Active Recon.md",
     "1. Discovery/3. Active Recon.md",
-    "Labs",
     "1. Discovery/2. Passive Recon.md",
     "1. Discovery/1. Information Gathering.md",
+    "Labs/Lab 3 - Active Recon.md",
     "Info.md",
+    "Tools.md",
+    "2. Endpoint Analysis/1. API Documentation.md",
+    "Labs",
     "2. Endpoint Analysis",
     "1. Discovery"
   ]
