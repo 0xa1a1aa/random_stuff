@@ -1,0 +1,24 @@
+# Virtualbox VM Network Setup w/ 2 NICs
+
+# If an interface is not automatically getting an IP address,
+# add the following lines to /etc/network/interfaces
+allow-hotplug eth0
+iface eth0 inet dhcp
+
+# Then request an IP address via DHCP
+sudo dhclient
+
+# Check if the routes are set correctly
+route
+
+# If you want to rename an interface
+sudo ip link set dev eth0 down
+sudo ip link set dev eth0 name eth0_nat
+sudo ip link set dev eth0_nat up
+
+# If you dont which interface is which
+# On Windows:
+cd C:\Program Files\Oracle\VirtualBox
+VBoxManage showvminfo "VM name"
+# Under "NIC 1" and "NIC 2" you should see the interface type
+# as well as the associated MAC address 
