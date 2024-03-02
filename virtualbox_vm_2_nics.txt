@@ -22,3 +22,6 @@ cd C:\Program Files\Oracle\VirtualBox
 VBoxManage showvminfo "VM name"
 # Under "NIC 1" and "NIC 2" you should see the interface type
 # as well as the associated MAC address 
+
+# Get the VM name
+VBoxManage list runningvms
